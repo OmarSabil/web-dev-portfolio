@@ -120,6 +120,12 @@ main{
 }
 
 /* About Style */
+.about{
+    border-radius: 10px;
+    /* padding: 130px 150px; */
+    text-align: center;
+    margin-top: 130px;
+}
 .section-title{
     font-size: 35px;
     font-weight: bold;
@@ -127,16 +133,21 @@ main{
 .section-description{
     margin: 30px 0;
 }
-.about{
-    border-radius: 10px;
-    /* padding: 130px 150px; */
-    text-align: center;
-    margin-top: 130px;
-}
 .about-items{
     display: flex;
     justify-content: space-around;
 }
 .item-description{
     font-weight: 600;
+}
+
+/* Skill style */
+.skill{
+    border-radius: 10px;
+    /* padding: 130px 150px; */
+    text-align: center;
+    margin-top: 130px;
+}
+.skill-item{
+
 }
